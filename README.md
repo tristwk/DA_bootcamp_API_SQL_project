@@ -1,8 +1,7 @@
 # DA_bootcamp_API_SQL_project
 
-# neuefische-bootcamp-sql-api-project
 
-## SQL-API project<br>
+## API-SQL project    
 This project combines SQL, Python and API skills learned so far and used them in combination with each other.
 
 ### Task Overview:
