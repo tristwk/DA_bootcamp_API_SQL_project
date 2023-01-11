@@ -12,7 +12,7 @@ Your task is to find a situation where the weather has impacted on flight cancel
 Data:
 - flights data from august 2017
 - weather data (API) from august 2017
-- 
+
 ### KPI's/ Hypotheses:
 - The airports closer to the coast (IAH, MSY, BTR) will be more affected than the ones inland (DFW) 
 - Hurricane Harvey has caused flight diversions arriving in Texas and Louisiana 
